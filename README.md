@@ -27,3 +27,12 @@ add- adds new or changed file in your working directory to the git staging area
 commit - it is the record of change
 
         git commit -m "some message"
+
+#push command
+
+Push - upload local repo content to remote repo
+
+        git push origin main
+
+            push
+    Remote <--------local
